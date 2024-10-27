@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## 
+
+1. en C:\Repositorios\Arquitectura\My.Org.Menu ejecutar
+   npm install -g create-single-spa
+   npm install -g single-spa-angular
+   ng new My.Org.Menu
+2. en C:\Repositorios\Arquitectura\My.Org.Menu\My.Org.Menu ejecutar
+   ng add single spa angular
+
+   
